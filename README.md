@@ -1,2 +1,1 @@
-# pyml
-This is example codes for doing machine learning in Python.
+# 「深層学習の基礎」（日本テクノセンター, 2020.2.19）
